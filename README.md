@@ -2,7 +2,7 @@
 
 A pngquant gulp plugin with cache.
 
-**Inspired & Based on :** 
+**Inspired & Based on :**
 [gulp-pngquant](https://github.com/leidottw/gulp-pngquant) & [gulp-tinypng-unlimited](https://github.com/ystrdy/gulp-tinypng-unlimited)
 
 
@@ -33,4 +33,4 @@ gulp.task('compress', function() {
 
 ## License
 
-MIT © [leidottw](https://github.com/finscn)
+MIT © [finscn](https://github.com/finscn)

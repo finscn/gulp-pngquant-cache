@@ -63,7 +63,7 @@ function gulpPngquant(options, customPngquantPath) {
         // tell the stream engine that we are done with this file
         cb();
     }, function (flush) {
-        log('Finished', '\'' + PLUGIN_NAME);
+        log('Finished : ', PLUGIN_NAME);
         flush();
     });
 
