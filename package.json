@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/finscn/gulp-pngquant-cache"
+    "url": "git+https://github.com/finscn/gulp-pngquant-cache.git"
   },
   "author": "finscn",
   "license": "MIT",
@@ -29,5 +29,13 @@
     "plugin-error": "^1.0.1",
     "pngquant-bin": "^5.0.2",
     "through2": "^3.0.1"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/finscn/gulp-pngquant-cache/issues"
+  },
+  "homepage": "https://github.com/finscn/gulp-pngquant-cache#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
 }
