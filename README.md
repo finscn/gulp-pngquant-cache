@@ -29,6 +29,8 @@ gulp.task('compress', function() {
         .pipe(gulp.dest('./compressed/'));
 });
 
+gulp.task('default', ['compress']);
+
 ```
 
 ## License
